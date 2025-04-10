@@ -1,0 +1,12 @@
+@relation intent_detection
+
+@attribute text string
+@attribute intent {greeting,book_flight,weather_info,goodbye,unknown}
+
+@data
+"hello", greeting
+"hi there", greeting
+"book me a ticket", book_flight
+"what’s the weather", weather_info
+"bye", goodbye
+"see you later", goodbye
