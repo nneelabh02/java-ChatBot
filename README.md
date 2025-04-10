@@ -128,4 +128,4 @@ Pull requests are welcome! Feel free to fork the repo and submit enhancements.
 
 ## 💡 Author
 
-Made with ❤️ by [Your Name]
+Made by Naman Neelabh
