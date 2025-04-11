@@ -1,4 +1,4 @@
-# 🤖 SmartBot - Java AI Chatbot
+# 🤖 JBot - Java AI Chatbot
 
 SmartBot is an intelligent chatbot built in Java using **Machine Learning**, **Natural Language Processing**, **Fuzzy Matching**, and **Wikipedia integration**. It detects user intents, answers general knowledge questions, and can be extended with speech and a GUI.
 
